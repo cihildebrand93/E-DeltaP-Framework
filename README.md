@@ -1,2 +1,3 @@
 # E-DeltaP-Framework
-A massless, force-free field theory of emergence. This model is released for open discussion, testing, expansion, and theoretical validation. Reproducibility and falsifiability are central goals.
+A unified, massless, force-free field theory of emergence.
+E = ΔP models gravity, time, particles, light, thermodynamics, and quantum behavior as recursive pressure gradients—without force, mass, or curvature. Fully simulated, falsifiable, and open for replication.
